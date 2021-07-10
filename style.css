@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "Quicksand";
+    src: url('Quicksand-VariableFont_wght.ttf');
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  color: #000000;
+  background-color: #ffffff;
+  text-decoration: none;
+}
+
+nav {
+  margin-bottom: 3rem;
+}
+
+h2 {
+  color: #00a2c6;
+}
+
+a {
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: none;
+  color: #000000;
+}
+
+#mainnav  a:hover {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+header {
+  background-color: #ffffff;
+}
+
+footer {
+   padding: 10px;
+   color: white;
+   background-color: #00a2c6;
+   text-align: center;
+   font-weight: bold;
+}
+
+th, td {
+  padding: 1rem;
+}
+
+aside {
+  background-color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.logo-bandung header {
+  text-align: center;
+  font-size: 1rem;
+}
