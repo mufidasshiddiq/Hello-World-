@@ -57,3 +57,10 @@ aside {
   text-align: center;
   font-size: 1rem;
 }
+
+.featured-image {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    object-position: center;
+}
